@@ -1,4 +1,4 @@
-# Context API
+# Redux Toolkit
 
 This project was created to test Redux Toolkit to mange global states
 
