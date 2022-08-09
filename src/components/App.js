@@ -3,6 +3,8 @@ import TaskForm from "./TaskForm";
 import { Routes, Route, Link } from "react-router-dom";
 
 function App() {
+  console.log("testing signed commits");
+
   return (
     <>
       <Link to="/create">Crear Tarea</Link>
